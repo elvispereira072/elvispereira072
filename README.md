@@ -16,6 +16,5 @@ I'm a versatile professional with a unique combination of skills in both technol
 Feel free to check out my projects and get in touch if you want to collaborate!
 
 ### 📫 How to reach me:
-- **LinkedIn:** [www.linkedin.com/in/
-elvis-developer]
-- **Email:** [elvispereira070@gmail.com]
+- **LinkedIn:** www.linkedin.com/in/elvis-developer
+- **Email:** elvispereira070@gmail.com
