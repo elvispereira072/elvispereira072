@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a versatile professional with a unique combination of skills in both technology and music. Here are some of the areas I specialize in:
+I'm a versatile professional with a unique combination of skills in both technology and music. I am a self-taught learner and have independently acquired all my skills. Here are some of the areas I specialize in:
 
 - **Front-End Development:** HTML, CSS, JavaScript, React
 - **Android Development:** Kotlin, Android Studio, Gradle
@@ -16,5 +16,5 @@ I'm a versatile professional with a unique combination of skills in both technol
 Feel free to check out my projects and get in touch if you want to collaborate!
 
 ### 📫 How to reach me:
-- **LinkedIn:** www.linkedin.com/in/elvis-developer
-- **Email:** elvispereira070@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/elvis-developer](https://www.linkedin.com/in/elvis-developer)
+- **Email:** [elvispereira070@gmail.com](mailto:elvispereira070@gmail.com)
