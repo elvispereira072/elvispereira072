@@ -11,6 +11,7 @@ I am a self-taught learner and have independently acquired all my skills. Here a
 installation.
 
 • Development of professional documents in Word.
+
 • Recovery of Gmail accounts, digital security practices, and data recovery.
 
 ### Certifications:
