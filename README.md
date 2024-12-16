@@ -5,7 +5,6 @@ I'm a versatile professional with a unique combination of skills in both technol
 - **Front-End Development:** HTML, CSS, JavaScript, Tailwind, React, Vercel, em Tailwind.
 - **Back-End Development:** Node.js, Express, Cors, Postman e GraphQL.
 - **Android (APK):** Kotlin, Android Studio, Gradle, Kodular and Hunkable.
-- 
 - **Version Control:** Git, GitHub
 - **Archiving:** Document Organization, Record Management
 
