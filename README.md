@@ -3,7 +3,7 @@
 I'm a versatile professional with a unique combination of skills in both technology and music. I am a self-taught learner and have independently acquired all my skills. Here are some of the areas I specialize in:
 
 - **Front-End Development:** HTML, CSS, JavaScript, React
-- **Android Development:** Kotlin, Android Studio, Gradle
+- **Android (APK):** Kotlin, Android Studio, Gradle, Kodular
 - **Version Control:** Git, GitHub
 - **Archiving:** Document Organization, Record Management
 
