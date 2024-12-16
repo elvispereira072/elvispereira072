@@ -7,6 +7,7 @@ I am a self-taught learner and have independently acquired all my skills. Here a
 - **Android (APK):**  Kodular, Hunkable, Kotlin, Android Studio, gradle.
 - **Version Control:** Git, GitHub.
 
+
 - Computer formatting with Windows 10, software installation, and Office package 
 installation.
 
