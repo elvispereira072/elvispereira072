@@ -2,7 +2,7 @@
 
 💻 Front-End Developer & Android Developer  
 🚀 Passionate about JavaScript, React, Kotlin, and building intuitive user experiences  
-🎯 Open to job opportunities in the USA (Remote or Relocation)  
+🎯 Open to job opportunities in the USA, Canadá, Portugual (Remote or Relocation)  
 
 ## 🔧 Tech Stack
 - **Languages:** JavaScript, Kotlin, HTML, CSS  
