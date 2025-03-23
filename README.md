@@ -1,4 +1,4 @@
-👋 Hi, I'm Elvis Pereira
+👋 Hi, I'm Elvis 
 💻 Front-End Developer & Android Developer
 🚀 Passionate about JavaScript, React, Kotlin, and building intuitive user experiences
 🎯 Open to job opportunities in the USA, Canada, Portugal (Remote or Relocation)
