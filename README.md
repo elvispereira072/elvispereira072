@@ -17,4 +17,4 @@ Email: elvispereira070@gmail.com
 
 Portfolio: https://elvisportfolio-com.vercel.app
 
-GitHub: elvispereira072
+GitHub: https://github.com/elvispereira072/elvispereira072
