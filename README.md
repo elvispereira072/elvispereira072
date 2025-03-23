@@ -13,8 +13,8 @@ Mobile: Android Development (Kotlin, APK)
 🌎 Connect with me
 LinkedIn
 
-Email
+Email: elvispereira070@gmail.com
 
-Portfolio
+Portfolio: https://elvisportfolio-com.vercel.app
 
-GitHub
+GitHub: elvispereira072
