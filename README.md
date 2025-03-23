@@ -11,7 +11,7 @@ Frameworks & Tools: React, Tailwind, Git & GitHub, Node.js
 Mobile: Android Development (Kotlin, APK)
 
 🌎 Connect with me
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/frontendelvis
 
 Email: elvispereira070@gmail.com
 
