@@ -1,20 +1,22 @@
-👋 Hi, I'm Elvis 
-💻 Front-End Developer & Android Developer
-🚀 Passionate about JavaScript, React, Kotlin, and building intuitive user experiences
-🎯 Open to job opportunities in the USA, Canada, New York (Remote or Relocation)
+👋 Hi, I'm Elvis Pereira
+💻 Front-End Developer | Full Stack Student
+🚀 Passionate about JavaScript, React, Kotlin, and creating intuitive user experiences
+🌍 Open to job opportunities in the USA, Canada, and New York (Remote or Relocation)
 
 🔧 Tech Stack
-Languages: JavaScript, HTML, Tailwind
+Front-End: HTML, CSS, JavaScript, React, Tailwind CSS
 
-Frameworks & Tools: React, Tailwind, Git & GitHub, Node.js, Express js
+Back-End (Learning): Node.js, Express.js, MongoDB
 
-Mobile: Android Development (APK)
+Version Control: Git & GitHub
 
-🌎 Connect with me
-LinkedIn: https://www.linkedin.com/in/frontendelvis
+Mobile Development: Android Development (APK)
 
-Email: elvispereira070@gmail.com
+📬 Connect with Me
+🔗 LinkedIn: https://www.linkedin.com/in/frontendelvis
 
-Portfolio: https://elvisportfolio-com.vercel.app
+💼 Portfolio: elvisportfolio-com.vercel.app
 
-GitHub: https://github.com/elvispereira072/elvispereira072
+📧 Email: elvispereira070@gmail.com
+
+🖥️ GitHub: github.com/elvispereira072
