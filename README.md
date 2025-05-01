@@ -6,8 +6,6 @@
 🔧 Tech Stack
 Front-End: HTML, CSS, JavaScript, React, Tailwind CSS
 
-Back-End (Learning): Node.js, Express.js, MongoDB
-
 Version Control: Git & GitHub
 
 Mobile Development: Android Development (APK)
