@@ -3,7 +3,7 @@
 🚀 Passionate about JavaScript, React, and creating intuitive user experiences
 🌍 Open to job opportunities in the USA, Canada, and New York (Remote or Relocation)
 
-🔧 Tech Stack
+Tech Stack:
 Front-End: HTML, Tailwind CSS, JavaScript, 
 
 Version Control: Git & GitHub
