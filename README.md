@@ -13,5 +13,3 @@ Mobile Development: Android Development (APK) (Kotlin, Kodular)
 💼 Portfolio: https://elvisportfolio-global.vercel.app
 
 📧 Email: elvispereira070@gmail.com
-
-🖥️ GitHub: github.com/elvispereira072
