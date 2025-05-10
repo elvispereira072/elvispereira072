@@ -1,4 +1,4 @@
-👋 Hi, I'm Elvis Pereira
+👋 Hi, I'm Elvis 
 💻 Front-End Developer | Full Stack Student
 🚀 Passionate about JavaScript, React, and creating intuitive user experiences
 🌍 Open to job opportunities in the USA, Canada, and New York (Remote or Relocation)
