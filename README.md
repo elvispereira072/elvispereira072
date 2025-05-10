@@ -1,9 +1,6 @@
-Front-End Developer | Full Stack Student
-JavaScript and creating intuitive user experiences.
-Open to job opportunities in the USA, Canada, and New York, Remote or Relocation.
+Front End Developer | Full Stack Student JavaScript and creating intuitive user experiences. Open to job opportunities in the USA, Canada, and New York, Remote or Relocation.
 
-Tech Stack:
-Front-End: HTML, Tailwind CSS, JavaScript.
+Tech Stack: Front-End: HTML, Tailwind CSS, JavaScript.
 
 Version Control: Git & GitHub.
 
