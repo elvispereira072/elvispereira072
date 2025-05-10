@@ -4,14 +4,11 @@
 🌍 Open to job opportunities in the USA, Canada, and New York (Remote or Relocation)
 
 🔧 Tech Stack
-Front-End: HTML, JavaScript, Tailwind CSS
+Front-End: HTML, Tailwind CSS, JavaScript, 
 
 Version Control: Git & GitHub
 
-Mobile Development: Android Development (APK)
-
-📬 Connect with Me
-🔗 LinkedIn: https://www.linkedin.com/in/frontendelvis
+Mobile Development: Android Development (APK) (Kotlin, Kodular)
 
 💼 Portfolio: https://elvisportfolio-global.vercel.app
 
