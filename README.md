@@ -1,4 +1,4 @@
-JavaScript and creating intuitive user experiences. Open to job opportunities in the USA, Canada, and New York, Remote or Relocation.
+JavaScript and creating intuitive user experiences. Open to job opportunities in the USA, Canada, New York, Remote or Relocation.
 
 Tech Stack: Front-End: HTML, Tailwind, JavaScript.
 
