@@ -1,11 +1,9 @@
-JavaScript and creating intuitive user experiences. Open to job opportunities in the USA, Canada, New York, Remote or Relocation.
+JavaScript and creating intuitive user experiences. Open to job opportunities in the New York and London.
 
 Tech Stack: Front-End: HTML, Tailwind, JavaScript.
 
 Version Control: Git & GitHub.
 
-Android Development: (APK) Kodular, Kotlin.
-
-Portfolio: https://elvisportfolio-global.vercel.app
+Portfolio: https://musiciandev.vercel.app/
 
 Email: elvispereira070@gmail.com
