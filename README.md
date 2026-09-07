@@ -1,9 +1,5 @@
-JavaScript and creating intuitive user experiences. Open to job opportunities in the New York and London.
+Open to job opportunities in the New York and London.
 
-Tech Stack: Front-End: HTML, Tailwind, JavaScript.
-
-Version Control: Git & GitHub.
-
-Portfolio: https://musiciandev.vercel.app/
+Portfolio: https://musiciandev.vercel.app music producer and web dev
 
 Email: elvispereira070@gmail.com
